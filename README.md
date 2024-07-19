@@ -27,6 +27,7 @@ JAVASCRIPT
 REACT
 
 **Currently Learning**
+
 PYTHON
 
 FLASK
