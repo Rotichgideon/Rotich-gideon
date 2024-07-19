@@ -1,1 +1,1 @@
-# Rotich-gideon
+I'm a software engineer with a love of frontend web development.I'm currently working with React to create easy-to-use and beutiful web apps.I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I have made and lessons I've learned along my software engineering journey so far.
