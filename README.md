@@ -4,6 +4,7 @@ I'm a software engineer with a love of frontend web development.I'm currently wo
 
 **Fun Facts**
 
+
 The first language I used to program "Hello World" was javascript.
 
 I've always loved marketing and I've worked with Sunking Solar as an Agent.
@@ -15,6 +16,7 @@ I love to travel to new places.
 If am not coding you'll likely find me playing video game.
 
 **My Current Tech Stack**
+
 
 HTML
 
